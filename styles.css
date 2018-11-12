@@ -1,3 +1,7 @@
+display:flex
+flex-direction:row
+justify-content:flex-end
+
 head{color:beige}
 h2 { border: 2px solid #ff0000; }
 
