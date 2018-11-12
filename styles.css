@@ -1,15 +1,10 @@
+head{color:beige}
+h2 { border: 2px solid #ff0000; }
 
-
-
+body{color:yellow}
 
 #special-pic {
     box-shadow: 3px 3px yellow;
-}
-
-
-
-.corgi-gallery {
-    box-shadow: 3px 3px #00ff00;
 }
 
 
